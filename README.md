@@ -22,6 +22,8 @@ Os programas são exibidos no terminal, tendo um layout limitado.
 
 ## Screenshots
 
+Tela do Sistema para gerenciamento de cafeterias:
+
 <p align="center">
   <img alt="App" title="#App" src="https://private-user-images.githubusercontent.com/92354084/246983330-63f4ae3c-bdd5-4b53-937b-52730b0a7216.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJrZXkxIiwiZXhwIjoxNjg3MjY4NzI2LCJuYmYiOjE2ODcyNjg0MjYsInBhdGgiOiIvOTIzNTQwODQvMjQ2OTgzMzMwLTYzZjRhZTNjLWJkZDUtNGI1My05MzdiLTUyNzMwYjBhNzIxNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMwNjIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMDYyMFQxMzQwMjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMzU4ZGUwZThjMzEzOTUwNTE3Zjc2MzE4NDAzZTVmZWM4OTRkZDcwOWNhZmVlZmI4ZDcyNTY0NTE5OTBhMzg2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.6nTxLFmvylJ9RyZwxMc5nSYFm05Cr1qPs3c4zPcbX9I" width= 140; height= 220; width="200px">
 
